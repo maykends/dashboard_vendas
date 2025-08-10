@@ -1,7 +1,3 @@
-Beleza! Vou atualizar o README incluindo essa info sobre a API JSON e o link atualizado do projeto.
-
----
-
 # Dashboard de Vendas com Streamlit
 
 ## 📌 Sobre o Projeto
@@ -124,6 +120,3 @@ streamlit==x.x.x
 * Pandas: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 * Plotly: [https://plotly.com/python/](https://plotly.com/python/)
 
----
-
-Se quiser, posso gerar o arquivo `requirements.txt` para você também! Quer?
