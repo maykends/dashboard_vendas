@@ -85,7 +85,7 @@ streamlit==x.x.x
 ## ☁️ Deploy da aplicação
 
 * A aplicação está hospedada no Streamlit Cloud, acesse em:
-  [https://dashboardvendas-xvobgdy5xw39yxwwxgxrlf.streamlit.app/](https://dashboardvendas-xvobgdy5xw39yxwwxgxrlf.streamlit.app/)
+  [[https://dashboardvendas-xvobgdy5xw39yxwwxgxrlf.streamlit.app/](https://maykend-dash.streamlit.app/)](https://maykend-dash.streamlit.app/))
 
 * Para fazer o deploy:
 
