@@ -1,10 +1,16 @@
+Beleza! Vou atualizar o README incluindo essa info sobre a API JSON e o link atualizado do projeto.
+
+---
+
 # Dashboard de Vendas com Streamlit
 
 ## 📌 Sobre o Projeto
 
-Este projeto é um dashboard interativo de vendas desenvolvido com [Streamlit](https://docs.streamlit.io/). Ele consome dados via API usando `requests`, manipula com `pandas` e exibe gráficos interativos com `plotly`.
+Este projeto é um dashboard interativo de vendas desenvolvido com [Streamlit](https://docs.streamlit.io/). Ele consome dados em formato JSON via API pública, manipula com `pandas` e exibe gráficos interativos com `plotly`.
 
-👉 [Demo Online](https://maykend-dash.streamlit.app/)
+**Fonte dos dados:** [API JSON - Produtos](https://labdados.com/produtos)
+
+👉 [Demo Online Atualizado](https://maykend-dash.streamlit.app/)
 👉 [Repositório GitHub](https://github.com/maykends/dashboard_vendas)
 
 ---
@@ -12,7 +18,7 @@ Este projeto é um dashboard interativo de vendas desenvolvido com [Streamlit](h
 ## 📚 Bibliotecas Utilizadas
 
 * [Streamlit](https://docs.streamlit.io/) — framework para criação de apps web interativos em Python
-* [Requests](https://requests.readthedocs.io/en/latest/) — para requisições HTTP e consumo de APIs
+* [Requests](https://requests.readthedocs.io/en/latest/) — para fazer requisições HTTP e consumir a API JSON
 * [Pandas](https://pandas.pydata.org/docs/) — manipulação e análise de dados
 * [Plotly](https://plotly.com/python/) — criação de gráficos interativos
 
@@ -85,7 +91,7 @@ streamlit==x.x.x
 ## ☁️ Deploy da aplicação
 
 * A aplicação está hospedada no Streamlit Cloud, acesse em:
-  [[https://dashboardvendas-xvobgdy5xw39yxwwxgxrlf.streamlit.app/](https://maykend-dash.streamlit.app/)](https://maykend-dash.streamlit.app/))
+  [https://maykend-dash.streamlit.app/](https://maykend-dash.streamlit.app/)
 
 * Para fazer o deploy:
 
@@ -98,6 +104,9 @@ streamlit==x.x.x
 
 ## 🎯 Funcionalidades aprendidas neste projeto
 
+* Consumir dados JSON de uma API pública usando `requests`
+* Manipular dados obtidos via API com `pandas`
+* Criar visualizações interativas com `plotly`
 * Identificar as bibliotecas instaladas no ambiente virtual e suas versões
 * Criar arquivo de requisitos (`requirements.txt`) para projetos Python
 * Realizar upload do projeto no GitHub
@@ -115,4 +124,6 @@ streamlit==x.x.x
 * Pandas: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 * Plotly: [https://plotly.com/python/](https://plotly.com/python/)
 
+---
 
+Se quiser, posso gerar o arquivo `requirements.txt` para você também! Quer?
